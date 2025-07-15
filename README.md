@@ -47,7 +47,7 @@ A smart AI-powered system that detects facial skin conditions like **acne, white
 > **Stack:** Python · TensorFlow · FastAPI · React · Gemini API  
 🎯 Trained using custom facial skin image datasets on MobileNetV2 for accurate and fast diagnosis.  
 🌐 Deployed with FastAPI and Gemini response integration.  
-🎥 [Watch Demo](https://github.com/Mohamed-Arif-A/mediscan-ai/assets/demo.mp4) — *(replace this with your actual video link)*
+🎥 [Watch Demo](https://github.com/Mohamed-Arif-A/mediscan-ai/assets/demo.mp4) 
 
 ---
 
@@ -57,7 +57,7 @@ A real-time object tracking project using OpenCV’s popular tracking algorithms
 > **Stack:** Python · OpenCV · NumPy  
 📹 Select ROI from a webcam feed and track it frame-by-frame using OpenCV’s tracking API.  
 💡 Use cases: Surveillance systems, gesture tracking, smart automation.  
-🎥 [Watch in Action](https://github.com/Mohamed-Arif-A/opencv-object-tracker/assets/demo.mp4) — *(replace this with your actual video)*
+🎥 [Watch in Action](https://github.com/Mohamed-Arif-A/opencv-object-tracker/assets/demo.mp4) 
 
 ---
 
