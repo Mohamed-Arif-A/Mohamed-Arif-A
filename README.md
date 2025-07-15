@@ -1,8 +1,4 @@
-Skip to content
-Chat history
 
-You said:
-<!-- Banner with typing effect -->
 <p align="center">
   <a href="https://github.com/Mohamed-Arif-A">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Mohamed+Arif+Amjedumar!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB+%7C+AI+Explorer+%F0%9F%A7%A0;Passionate+about+OpenCV+%2B+Computer+Vision+%F0%9F%96%A5%EF%B8%8F;Creating+Smart+Solutions+with+Design+%26+Code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+Build+Something+Great+Together+%E2%9C%A8" alt="Typing SVG" />
